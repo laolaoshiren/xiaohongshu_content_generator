@@ -1,5 +1,11 @@
 # 小红书文案生成器 🌟
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=laolaoshiren.xiaohongshu_content_generator)
+![GitHub stars](https://img.shields.io/github/stars/laolaoshiren/xiaohongshu_content_generator?style=social)
+![GitHub forks](https://img.shields.io/github/forks/laolaoshiren/xiaohongshu_content_generator?style=social)
+![GitHub issues](https://img.shields.io/github/issues/laolaoshiren/xiaohongshu_content_generator)
+![GitHub license](https://img.shields.io/github/license/laolaoshiren/xiaohongshu_content_generator)
+
 一个基于本地 Ollama 模型的小红书风格文案生成工具。可以根据关键词自动生成吸引人的标题和内容，支持多种写作风格，并自动添加合适的表情符号和话题标签。
 
 ## 功能特点 ✨
