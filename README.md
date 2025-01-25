@@ -23,8 +23,8 @@
 
 1. 克隆项目到本地：
 ```bash
-git clone https://github.com/[你的用户名]/xiaohongshu-content-generator.git
-cd xiaohongshu-content-generator
+git clone https://github.com/laolaoshiren/xiaohongshu_content_generator.git
+cd xiaohongshu_content_generator
 ```
 
 2. 安装依赖：
@@ -128,7 +128,7 @@ node index.js
 
 ## Star 历史
 
-[![Star History Chart](https://api.star-history.com/svg?repos=[你的用户名]/xiaohongshu-content-generator&type=Date)](https://star-history.com/#[你的用户名]/xiaohongshu-content-generator&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=laolaoshiren/xiaohongshu_content_generator&type=Date)](https://star-history.com/#laolaoshiren/xiaohongshu_content_generator&Date)
 
 ## 许可证
 
